@@ -1,0 +1,18 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "image": "https://novelkeys.com/cdn/shop/files/GMK_CYL_FrightClub_16x9_TILE_1512x.jpg?v=1698674520",
+         "name": "Mechanical Keyboard",
+         "brand": "Some Brand",
+         "price": 399
+      },
+      {
+         "id": 2,
+         "image": "https://novelkeys.com/cdn/shop/files/GMK_CYL_Mictlan_16x9_TILE_1512x.jpg?v=1698065749",
+         "name": "Mechanical Keyboard",
+         "brand": "Some Brand",
+         "price": 299
+      }
+   ]
+}
